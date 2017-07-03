@@ -1,0 +1,44 @@
+Risk of Rain Patch v1.2.0
+http://riskofraingame.com/risk-of-rain-patch-v1-2-0/
+
+Gameplay:
+
+Huntress:
+Strafe damage reduced to 120% from 140%
+HAN-D:
+HAN-D can no longer fire DRONE after death
+FORCE_REASSEMBLEY damage increased from 400% to 500%
+Acrid:
+Acrid¡¯s Caustic Sludge duration is refreshed when overlapped
+Mercenary:
+Eviscerate now checks max range only on cast
+-Risk of Rain now runs on a newer engine, improving performance
+-2 new classes are now in the game
+-10 new items are now in the game
+-6 new challenges introduced to the game
+-Better scaling options introduced in the menu
+-Improved clarity on meat nugget particles
+-Mushrum no longer detonate on death
+-Mushrum particles are now improved
+-Enemy affix are now vibrantly colored
+-Ifrit damage is now 1.5~2x stronger
+-Cremator damage is slighty lower
+
+Bug Fixes:
+
+-Soldier¡¯s Syringe no longer resets attack speed at high attack speeds
+-Bighorn Bison¡¯s hit box properly matches the sprite
+-Providence no longer keeps up his superarmor buff indefinitely
+-Colossus no longer spawns Golems inside walls
+-Crowbars no longer always deal double damage to Magma Worms
+-Fixed vertical leash range on the Flame Drone
+-Use item chest on the final stage only drops unlocked use items
+-Use items better fit the HUD on cooldown
+-The Enforcer can no longer can climb rope while shielded
+-The Enforcer properly leaves shield mode when teleporting to another stage
+-Improved Huntress arrow hitbox
+-Sniper reload bar now properly disappears after death
+-Sniper¡¯s SCAN properly works with rotated enemies
+-Dynamite Toss now properly works with the Shattered Mirror
+-Variety of other bug fixes that I forgot to write down
+-Ol¡¯ Lopper now properly doubles damage on critical strike
